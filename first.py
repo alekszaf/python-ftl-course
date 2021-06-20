@@ -6,3 +6,5 @@ device.write(b'IDN\n')
 answer = device.readline()
 print(f'The answer is: {answer}')
 device.close()
+
+#This is just a comment to test git in VS code
